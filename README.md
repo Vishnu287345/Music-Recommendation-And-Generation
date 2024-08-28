@@ -22,7 +22,7 @@ This project develops a system that leverages facial emotion recognition to reco
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/music-recommendation-emotion-detection.git
+   git clone https://github.com/Vishnu287345/music-recommendation-emotion-detection.git
    cd music-recommendation-emotion-detection
    ```
 
